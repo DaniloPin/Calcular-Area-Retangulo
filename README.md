@@ -4,4 +4,5 @@ Criei uma classe chamada Retangulo que tenha:
 
 - Duas propriedades públicas: Altura e Largura.
 - Um método chamado CalcularArea() que retorne a área do retângulo (altura × largura).
+  
 Depois, criei um objeto da classe, atribui os valores e mostrei o resultado da área na tela.
